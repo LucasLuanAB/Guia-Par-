@@ -2,7 +2,7 @@
 
 Este é um site simples que lista postos de gasolina, mostrando informações básicas como nome, imagem/logo, e preço, além de oferecer um botão para traçar rota diretamente no Google Maps.
 
-Funcionalidades:
+## Funcionalidades:
 
 Lista de postos públicos e privados
 
@@ -10,7 +10,7 @@ Exibição de imagem/logo do posto
 
 Botão "Trace Route" que abre o Google Maps com o local selecionado
 
-Como usar:
+### Como usar:
 
 Baixe ou clone este repositório
 
@@ -18,7 +18,7 @@ Abra o arquivo index.html no navegador
 
 Clique no botão "Trace Route" para abrir o Google Maps com a localização do posto
 
-Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 HTML5
 
